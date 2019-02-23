@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitee.com:wolf18387/douban-trailer-imooc.git"
+    "url": "git@github.com:Mcguffen/movies.git"
   },
   "keywords": [
     "movie",
     "trailer"
   ],
-  "author": "Scott",
+  "author": "Mcguffen",
   "license": "MIT",
   "dependencies": {
     "antd": "^3.0.0",
